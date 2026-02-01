@@ -3,12 +3,12 @@ body.background {
     padding: 20px;
     margin: 20px;
 }
-#cd {
+#cd {;
     box-shadow: 10px 10px 2px 0 rgba(26, 25, 25, 0.795), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    border: 50px;
-    border: 2px solid #343434;
+    border-radius: 20px;
+    border: 2px solid black;
     padding: 20px;
-    margin: 20px;
+    margin: 530px;
     background-color: aliceblue;
 }
 img.blog-image {
@@ -17,6 +17,7 @@ img.blog-image {
     height: auto;
 }
 .text-preset-3 {
+    
     font-size: 14px;
     font-family: 'Figtree', Arial sans-serif;
 }
